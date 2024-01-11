@@ -1,0 +1,34 @@
+.info {
+	margin: 70px 64px 0px;
+}
+
+.info .about {
+	font-size: 2rem;
+	font-weight: bold;
+	text-align: justify;
+	color: var(--color-grey);
+}
+
+.info .credits {
+	margin: 64px 0px;
+	font-size: 1.25rem;
+	font-weight: bold;
+	color: var(--color-grey);
+}
+
+.info .credits a {
+	color: var(--color-blue);
+	text-decoration: none;
+}
+
+.info .prompt b {
+	font-size: 2.5rem;
+	color: var(--color-grey);
+}
+
+.info .prompt {
+	display: flex;
+	justify-content: center;
+
+	gap: 32px;
+}

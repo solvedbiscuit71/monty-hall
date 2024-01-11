@@ -1,0 +1,13 @@
+button.button {
+	width: 102px;
+	min-height: 52px;
+
+	background-color: var(--color-orange);
+	border-radius: 8px;
+	border: none;
+	box-shadow: 0px 4px 4px 0px #00000025;
+}
+
+.button:hover {
+	cursor: pointer;
+}

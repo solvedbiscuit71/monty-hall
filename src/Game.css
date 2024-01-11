@@ -1,0 +1,26 @@
+.game {
+	margin-top: 70px;
+
+	display: flex;
+	flex-direction: column;
+	gap: 64px;
+}
+
+.game .doors-grid {
+	display: flex;
+	justify-content: center;
+
+	gap: 100px;
+}
+
+.game .prompt b {
+	font-size: 2.5rem;
+	color: var(--color-black);
+}
+
+.game .prompt {
+	display: flex;
+	justify-content: center;
+
+	gap: 32px;
+}

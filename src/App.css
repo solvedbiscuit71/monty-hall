@@ -1,0 +1,19 @@
+nav {
+	width: 100%;
+	min-height: 138px;
+
+	display: flex;
+	justify-content: space-between;
+	padding: 2rem 4rem;
+	
+	background-color: var(--color-orange);
+}
+
+nav b {
+	font-size: 4rem;
+	color: white;
+}
+
+main {
+	margin-top: 70px;
+}
