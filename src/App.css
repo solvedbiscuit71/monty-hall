@@ -1,6 +1,6 @@
 nav {
 	width: 100%;
-	min-height: 138px;
+	max-height: 120px;
 
 	display: flex;
 	justify-content: space-between;
@@ -10,8 +10,12 @@ nav {
 }
 
 nav b {
-	font-size: 4rem;
+	font-size: 3rem;
 	color: white;
+}
+
+nav img {
+	flex-shrink: 1;
 }
 
 main {
