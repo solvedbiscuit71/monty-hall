@@ -9,7 +9,7 @@ function Info({handleBack}) {
 			<p className='about'>{infoText}</p>
 
 			<div className='credits'>
-				Created by Praveen Perumal (<a href='https://github.com/solvedbiscuit71'>solvedbiscuit71</a>)
+				Created by Praveen Perumal (<a href='https://github.com/solvedbiscuit71' target='_blank'>solvedbiscuit71</a>)
 			</div>
 
 			<div className='prompt'>
